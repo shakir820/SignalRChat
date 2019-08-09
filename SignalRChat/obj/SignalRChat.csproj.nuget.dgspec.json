@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {}
+    "E:\\Github\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {
+    "E:\\Github\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+        "projectUniqueName": "E:\\Github\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
         "projectName": "SignalRChat",
-        "projectPath": "D:\\GitHub\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+        "projectPath": "E:\\Github\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
         "packagesPath": "C:\\Users\\SHAKIR\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SignalRChat\\SignalRChat\\obj\\",
+        "outputPath": "E:\\Github\\SignalRChat\\SignalRChat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
